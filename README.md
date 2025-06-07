@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Achadinhos da shopee 
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -130,7 +130,7 @@
 </head>
 <body>
 
-<header>Minha Loja Afiliada Shopee</header>
+<header> você é o cliente 1352 /header> Shopee</header>
 
 <main>
   <div class="produtos">
